@@ -1,4 +1,4 @@
-# Image Reconstruction Through a Scattering Medium using an Encoder--Decoder Network
+# Image Reconstruction Through a Scattering Medium using an Encoder - Decoder Network
 
 ## Overview
 
